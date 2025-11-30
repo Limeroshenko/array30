@@ -7,7 +7,7 @@ vChewing（唯音）是專屬於 macOS 平台的輸入法軟體專案，最初�
 * .cin2：鍵碼表（磁帶）原始檔。
 
 ## 使用方法
-關於 vChewing 載入行列輸入法鍵碼表的方法，請參考本人的 [wiki 網頁](https://github.com/gontera/array30/wiki/vChewing%EF%BC%88%E5%A8%81%E6%B3%A8%E9%9F%B3%EF%BC%89%E6%95%99%E5%AD%B8%EF%BC%9A%E8%BC%89%E5%85%A5%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
+關於 vChewing 載入行列輸入法鍵碼表的方法，請參考本人的 [wiki 網頁](https://github.com/gontera/array30/wiki/vChewing%EF%BC%88%E5%94%AF%E9%9F%B3%EF%BC%8C%E8%88%8A%E7%A8%B1%E3%80%8C%E5%A8%81%E6%B3%A8%E9%9F%B3%E3%80%8D%EF%BC%89%E6%95%99%E5%AD%B8%EF%BC%9A%E8%BC%89%E5%85%A5%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
 
 ## 版本更新歷程：
 * 2025-10-12 版本 v2023-1.0，遵循 CIN2 v2.5 規格，新增支援行列詞彙輸入。（請搭配威注音 v4.0.2 或更新的版本）
