@@ -1,3 +1,7 @@
+# 關於本fork
+ar30Phrase2023Big.cin
+帶詞庫的cin檔，適用於gcin與JsCIN
+
 # 行列輸入法 array30 for gcin
 gcin 是專為 Windows、Linux 及 Android 平台開發的第三方輸入法軟體框架。本頁面的提供輸入法鍵碼表（.cin 檔案），係特別為 gcin 製作及調整。如欲尋求 gcin 相關支援，請參見其官網（討論版），網址為 https://hyperrate.com/dir.php?eid=67 。
 
